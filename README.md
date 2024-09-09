@@ -1,5 +1,5 @@
 ## Hi there, I'm Nam Kyun 👋
-hoping for a <span style="font-color: skyblue;">developer</span>
+hoping for a <span style="color: blue;">developer</span>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluePigKYUN&show_icons=true&theme=radical) -->
 
