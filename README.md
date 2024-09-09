@@ -1,6 +1,7 @@
 ## Hi there, I'm Nam Kyun 👋
 hoping for a <span style="color: blue;">developer</span>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluePigKYUN&layout=compact&langs_count=4)](https://github.com/BluePigKYUN/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluePigKYUN&show_icons=true&theme=radical) -->
 
 <!--
