@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nam Kyun 👋
+
+I'm a person does this and that
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluePigKYUN&show_icons=true&theme=radical) -->
 
