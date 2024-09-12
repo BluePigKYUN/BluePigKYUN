@@ -1,5 +1,5 @@
 ## Hi there, I'm Nam Kyun 👋
-사부작 뭔가를 만들어보려고 합니다.
+섬세함을 갖고 프로그래밍에 임하려합니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluePigKYUN&layout=compact&langs_count=6)](https://github.com/BluePigKYUN/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BluePigKYUN&show_icons=true&theme=radical) -->
