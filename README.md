@@ -1,4 +1,4 @@
-<!-- ## Hi there, I'm Nam Kyun 👋 -->
+<!-- ## Hi there, I'm Nam Kyun- 👋 -->
 ## 안녕하세요. 장남균입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BluePigKYUN&layout=compact&langs_count=6)](https://github.com/BluePigKYUN/github-readme-stats)
